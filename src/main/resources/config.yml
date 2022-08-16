@@ -1,0 +1,40 @@
+settings:
+  collection-address: '0x9558fAe06F6d49fAAC337e9443e69f41967c25bC'
+  opensea-slug: 'tygrcuballiance'
+traits:
+  hand:
+    axe:
+      display-name: '&eMighty Axe'
+      material: 'IRON_AXE'
+      custom-model-data: 4
+      lore:
+        - 'Lore 1'
+        - 'Lore 2'
+    ray-gun:
+      display-name: '&5Ray Gun'
+      material: 'BLAZE_ROD'
+      custom-model-data: 2
+      lore:
+        - 'Lore 1 lan'
+        - 'Lore 2 ulan'
+    lolipop:
+      display-name: '&eLolipop!'
+      material: 'STICK'
+      custom-model-data: 1
+      lore:
+        - 'Lore 1'
+    sucker:
+      display-name: '&eLolipop!'
+      material: 'STICK'
+      custom-model-data: 1
+      lore:
+        - 'Lore 1'
+  head:
+
+  suit:
+    velma:
+      display-name: '&eVelma Suit'
+      material: 'IRON_CHESTPLATE'
+      custom-model-data: 4
+      lore:
+        - 'Lore 1'

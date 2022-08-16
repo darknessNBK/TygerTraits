@@ -1,0 +1,5 @@
+name: TygerTraits
+version: '${project.version}'
+main: com.lighty.tygertraits.TygerTraitsPlugin
+api-version: 1.17
+authors: [ Lighty ]
